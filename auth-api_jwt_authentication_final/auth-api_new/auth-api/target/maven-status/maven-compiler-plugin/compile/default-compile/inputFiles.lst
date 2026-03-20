@@ -1,0 +1,12 @@
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\AuthApiApplication.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\configs\ApplicationConfiguration.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\configs\JwtAuthenticationFilter.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\configs\SecurityConfiguration.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\controllers\AuthenticationController.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\dtos\LoginResponse.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\dtos\LoginUserDto.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\dtos\RegisterUserDto.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\model\User.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\repository\UserRepository.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\services\AuthenticationService.java
+D:\EY_projects\auth-api_new\auth-api\src\main\java\com\example\auth_api\services\JwtService.java
